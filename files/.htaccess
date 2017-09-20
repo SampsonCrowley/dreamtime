@@ -1,0 +1,6 @@
+# Turn off all options we don't need.
+Options None
+Options +FollowSymLinks
+
+# If we know how to do it safely, disable the PHP engine entirely.
+php_flag engine off
