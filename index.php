@@ -35,7 +35,7 @@
         font-family: "Roboto", sans-serif;
       }
       TextType2 {
-        color:blue;
+        color:#245BD1;
         font-size: 200%;
         line-height: 110%;
       }
@@ -85,7 +85,7 @@
       </texttype2><br />
       <br />
       <texttype1>
-        For more information: <u><a href="mailto:dreamtimefoundation@gmail.com">dreamtimefoundation@gmail.com</a></u></texttype1>
+        For more information: <u><a href="mailto:dreamtimefoundationinfo@gmail.com">dreamtimefoundationinfo@gmail.com</a></u></texttype1>
       </div>
     <h2 class="centered">
       Determination Letter for 501(c)(3): <a href="/files/Determination_Letter_for_501_c_3.pdf">501c3.pdf</a>
