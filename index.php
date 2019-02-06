@@ -78,7 +78,7 @@
       </texttype2><br />
       <br />
       <texttype1>
-        For more information: <u>mail@dreamtimefoundation.com</u></texttype1>
+        For more information: <u>dreamtimefoundation@gmail.com</u></texttype1>
       </div>
     <h2 class="centered">
       Determination Letter for 501(c)(3): <a href="/files/Determination_Letter_for_501_c_3.pdf">501c3.pdf</a>
