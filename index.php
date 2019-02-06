@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Satisfy" rel="stylesheet">
     <style type="text/css">
+      * {
+        font-family: "Roboto", sans-serif;
+      }
       .centered {
         margin-left: auto;
         margin-right: auto;
@@ -23,9 +27,12 @@
       }
       TextType1 {
         color:#FF6600;
-        font-family: "Brush Script Std", Times;
+        font-family: "Satisfy", cursive;
         font-size: 175%;
         line-height: 100%;
+      }
+      TextType1 a {
+        font-family: "Roboto", sans-serif;
       }
       TextType2 {
         color:blue;
@@ -39,7 +46,7 @@
       }
       TextType3 {
         color:#245BD1;
-        font-family: "Brush Script Std", Times;
+        font-family: "Satisfy", cursive;
         font-size: 175%;
         line-height: 100%;
       }
@@ -78,7 +85,7 @@
       </texttype2><br />
       <br />
       <texttype1>
-        For more information: <u>dreamtimefoundation@gmail.com</u></texttype1>
+        For more information: <u><a href="mailto:dreamtimefoundation@gmail.com">dreamtimefoundation@gmail.com</a></u></texttype1>
       </div>
     <h2 class="centered">
       Determination Letter for 501(c)(3): <a href="/files/Determination_Letter_for_501_c_3.pdf">501c3.pdf</a>
